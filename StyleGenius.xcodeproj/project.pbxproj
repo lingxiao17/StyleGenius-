@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6BA6ECDA2E65E1AA00E5412D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6BA6ECD92E65E1A300E5412D /* .gitignore */; };
 		6BB269BC2E5B4219006466CF /* ItemDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB269BB2E5B4219006466CF /* ItemDetailView.swift */; };
 		6BB269BE2E5B42BA006466CF /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB269BD2E5B42BA006466CF /* EditItemView.swift */; };
 		6BB269C12E5D3C27006466CF /* StyleSelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB269C02E5D3C27006466CF /* StyleSelectorView.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6BA6ECD92E65E1A300E5412D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		6BB269BB2E5B4219006466CF /* ItemDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailView.swift; sourceTree = "<group>"; };
 		6BB269BD2E5B42BA006466CF /* EditItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
 		6BB269C02E5D3C27006466CF /* StyleSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleSelectorView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				6BC081A22E60D8D600351CA8 /* OpenAIService.swift */,
 				6BC0819D2E60C76200351CA8 /* OccasionPickerView.swift */,
+				6BA6ECD92E65E1A300E5412D /* .gitignore */,
 				6BB269C02E5D3C27006466CF /* StyleSelectorView.swift */,
 				6BB269BB2E5B4219006466CF /* ItemDetailView.swift */,
 				6BB269BD2E5B42BA006466CF /* EditItemView.swift */,
@@ -154,6 +157,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BA6ECDA2E65E1AA00E5412D /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
