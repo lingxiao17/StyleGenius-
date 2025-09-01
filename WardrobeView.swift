@@ -2,17 +2,7 @@ import SwiftUI
 import UIKit
 import PhotosUI
 
-struct SaveableClothingItem: Codable {
-    let id: UUID
-    let imageData: Data
-    let category: ClothingCategory
-    let dateAdded: Date
-    let name: String? 
-    let color: String?
-    let notes: String?
-    
-   
-}
+// SaveableClothingItem is now defined in WardrobeDataModel.swift
 
 struct WardrobeView: View {
     @State private var showingImagePicker = false

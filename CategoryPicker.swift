@@ -7,38 +7,7 @@
 
 import SwiftUI
 
-enum ClothingCategory: String, CaseIterable, Codable, Identifiable {  // Add Codable here
-    case tops = "tops"
-    case bottoms = "bottoms"
-    case dresses = "dresses"
-    case outerwear = "outerwear"
-    case shoes = "shoes"
-    case accessories = "accessories"
-    
-    var id: String { self.rawValue } 
-    
-    var displayName: String {
-        switch self {
-        case .tops: return "Tops"
-        case .bottoms: return "Bottoms"
-        case .dresses: return "Dresses"
-        case .outerwear: return "Outerwear"
-        case .shoes: return "Shoes"
-        case .accessories: return "Accessories"
-        }
-    }
-    
-    var icon: String {
-        switch self {
-        case .tops: return "tshirt"
-        case .bottoms: return "trousers"
-        case .dresses: return "dress"
-        case .outerwear: return "coat"
-        case .shoes: return "shoe"
-        case .accessories: return "eyeglasses"
-        }
-    }
-}
+// ClothingCategory enum is now defined in WardrobeDataModel.swift
 
 struct CategoryPicker: View {
     @Binding var selectedCategory: ClothingCategory
