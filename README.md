@@ -81,9 +81,8 @@ Your personal AI-powered digital stylist. Upload your wardrobe, explore outfit r
 
 ---
 
-## 📄 License & Contact  
-**License:** MIT  
+## 📄 Contact  
 
 **Author:** Lingchen Xiao  
-- [LinkedIn](https://www.linkedin.com/in/lingchenxiao)  
-- Email: lingchen@example.com  
+- https://www.linkedin.com/in/lingchen-xiao-38b97a257/ 
+- Email: lingchenxiaohohokus@gmail.com
