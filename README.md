@@ -8,11 +8,11 @@ Your personal AI-powered digital stylist. Upload your wardrobe, explore outfit r
 ## 📱 Screens & Demo  
 
 <div align="center">
-  <img width="1170" height="2532" alt="IMG_1799" src="https://github.com/user-attachments/assets/5f35d1da-78df-47a1-a6d1-13cce3c3d994" />
- <img width="1170" height="2532" alt="IMG_1802" src="https://github.com/user-attachments/assets/c8384f8f-03a7-44ce-97d2-1e13862b111c" />
-<img width="1170" height="2532" alt="IMG_1803" src="https://github.com/user-attachments/assets/29bfdcea-c488-4615-a5a1-702617cdce1c" />
-<img width="1170" height="2532" alt="IMG_1805" src="https://github.com/user-attachments/assets/596970c0-0fd4-46cd-a07d-c1fa03f2eac1" />
-<img width="1170" height="2532" alt="IMG_1806" src="https://github.com/user-attachments/assets/a6eb6dd4-6bfc-4ec5-8616-adfeaf6ec777" />
+  <img width="150" height="auto" alt="IMG_1799" src="https://github.com/user-attachments/assets/5f35d1da-78df-47a1-a6d1-13cce3c3d994" />
+ <img width="150" height="auto" alt="IMG_1802" src="https://github.com/user-attachments/assets/c8384f8f-03a7-44ce-97d2-1e13862b111c" />
+<img width="150" height="auto" alt="IMG_1803" src="https://github.com/user-attachments/assets/29bfdcea-c488-4615-a5a1-702617cdce1c" />
+<img width="150" height="auto" alt="IMG_1805" src="https://github.com/user-attachments/assets/596970c0-0fd4-46cd-a07d-c1fa03f2eac1" />
+<img width="150" height="auto" alt="IMG_1806" src="https://github.com/user-attachments/assets/a6eb6dd4-6bfc-4ec5-8616-adfeaf6ec777" />
 
 "/>
 </div>
